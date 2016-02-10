@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhotoTest</string>
+    <string name="accessToken">This is not a valid access token CAAVo8C9EtZAMBAGNZCNRKskwe4P62jLGaiXGZApunj5n4YrtVhg7AGYLcxvP2qazWgvCZA8wM6bu9tSFPiDuXzWDyEhWRvkFB5VlSoFnLf9wIUp4HwLyRg2jRZBQoTjOEjL13DN0FXvoRuZAkG0LLc4zVrkGkcfkQZBEQEc1jvbxSJcZAWUk5NoJOQMP0dyBwrUNNV8eNqgwewZDZD</string>
+    <string name="facebook_app_id">YourFacebookAppID</string>
+    <string name="userId">YourFacebookUserID</string>
+    <string name="Gallery">Photo Album</string>
+    <string name="Home">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
