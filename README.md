@@ -1,5 +1,9 @@
 # FacebookPhotoGallery
-Android application which populates a GridView with images from a Facebook Page album.
+
+![FacebookPhotoGallery](https://raw.githubusercontent.com/CharlesAE/FacebookPhotoGallery/master/photo_gal.jpg "SR Studios")
+
+Simple Android app which populates a GridView with images from a Facebook Page album, using Facebook's Android SDK, Graph API and Access Tokens
+
 
 Requires usage of Facebook's Graph API (https://developers.facebook.com/docs/graph-api/overview)
 and Android SDK (https://developers.facebook.com/docs/android)
